@@ -3,6 +3,8 @@
 ![PXL_20221008_170149491 PORTRAIT](https://user-images.githubusercontent.com/96370103/194719110-753e4c8a-6163-4716-aebe-1170014e988a.jpg)
 **DONT WORRY ABOUT THE BINARY EXPLORER BOARD**. Red dots match pin placement. 
 
+![ESP32 PINOUT](https://user-images.githubusercontent.com/96370103/194719681-100162ab-d7fe-4bb1-9bd2-6ad1edf939de.png)
+
 ## BOM
 1. ESP32 devolopment board
 2. Adafruit Motor Sheild

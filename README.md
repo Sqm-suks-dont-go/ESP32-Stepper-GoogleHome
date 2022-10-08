@@ -11,7 +11,7 @@
 3. Stepper Motor "The one in the REF tends to get hot running at 5v" **should be** able to use a motor with less current consumption
 
 ## Additonal Tools needed
-1. Sinric Pro Account: https://sinric.pro/
+1. Sinric Pro Account: https://sinric.pro/ **THIS PROJECT USES THE FAN DEVICE**
 2. Arduino IDE: https://www.arduino.cc/en/software
 
 ## Librarys
@@ -36,7 +36,7 @@ SinricPro by Boris Jaeger
 
 ## Tutorial 
 
-Sinric pro/ Linking to google home : https://www.youtube.com/watch?v=MRNDAGur968
+Sinric pro/ Linking to google home : https://www.youtube.com/watch?v=MRNDAGur968 **THIS PROJECT USES THE FAN DEVICE**
 
 Adding Boards to Arduino IDE: https://forum.arduino.cc/t/copy-paste-url-board-manager/579253
 

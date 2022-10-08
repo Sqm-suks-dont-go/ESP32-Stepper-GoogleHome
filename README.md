@@ -1,7 +1,7 @@
 # ESP32-Stepper-GoogleHome
 
 ![PXL_20221008_170149491 PORTRAIT](https://user-images.githubusercontent.com/96370103/194719110-753e4c8a-6163-4716-aebe-1170014e988a.jpg)
-**DONT WORRY ABOUT THE BINARY EXPLORER BOARD** red dots match pin placement. 
+**DONT WORRY ABOUT THE BINARY EXPLORER BOARD**. Red dots match pin placement. 
 
 ## BOM
 1. ESP32 devolopment board
@@ -20,14 +20,13 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
-### FOR Adafruit Motor Sheild
+### For Adafruit Motor Sheild
 
 https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library.git
 
 ### Sinric Pro
 
 **Directly in Arduino IDE no need to add links**
-
 SinricPro by Boris Jaeger
 
 
@@ -39,7 +38,7 @@ Sinric pro/ Linking to google home : https://www.youtube.com/watch?v=MRNDAGur968
 
 Adding Boards to Arduino IDE: https://forum.arduino.cc/t/copy-paste-url-board-manager/579253
 
-## REF links:
+## Parts links:
 
 Motor Sheild: https://www.adafruit.com/product/2348
 

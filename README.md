@@ -50,13 +50,11 @@ ESP32 DEV Board(**WROOM-32**): https://www.espressif.com/en/products/devkits/esp
 
 ```mermaid
 graph TD;
-
 A-->B;
 A-->C;
 B-->D;
 C-->D;
 D-->A;
-
 ```
 
 

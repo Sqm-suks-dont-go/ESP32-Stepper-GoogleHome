@@ -47,3 +47,17 @@ Motor Sheild: https://www.adafruit.com/product/2348
 Stepper Motor: https://www.adafruit.com/product/324
 
 ESP32 DEV Board(**WROOM-32**): https://www.espressif.com/en/products/devkits/esp32-devkitc
+
+```mermaid
+graph TD;
+
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+D-->A;
+
+```
+
+
+

@@ -48,9 +48,6 @@ Stepper Motor: https://www.adafruit.com/product/324
 
 ESP32 DEV Board(**WROOM-32**): https://www.espressif.com/en/products/devkits/esp32-devkitc
 
-> [!Note]
-> [Link to Actual webpage](https://www.computerhope.com/unix/uecho.htm)
-
 
 
 

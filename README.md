@@ -10,6 +10,8 @@
 2. Adafruit Motor Sheild
 3. Stepper Motor "The one in the REF tends to get hot running at 5v" **should be** able to use a motor with less current consumption
 
+>**Link For Parts at Bottom**
+
 ## Additonal Tools needed
 1. Sinric Pro Account: https://sinric.pro/ **THIS PROJECT USES THE FAN DEVICE**
 2. Arduino IDE: https://www.arduino.cc/en/software
